@@ -1,2 +1,4 @@
 # Example Repository
-Sample repo here"# IDK" 
+
+This is my first Repo
+Second change: Added an html file
